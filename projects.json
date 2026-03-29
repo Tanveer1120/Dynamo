@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Portfolio Website",
+    "description": "A personal portfolio built with Node.js",
+    "link": "#"
+  },
+  {
+    "title": "E-Commerce App",
+    "description": "Full stack shopping app",
+    "link": "#"
+  },
+  {
+    "title": "Chat App",
+    "description": "Real-time chat using WebSockets",
+    "link": "#"
+  }
+]
